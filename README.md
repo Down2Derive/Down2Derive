@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I am a dedicated physics student committed to utilizing my diverse experiences, unique background, and ambitions to gain a distinctive perspective on research. I aim to contribute to human knowledge and make it accessible to all, enabling me to communicate science and inspire others to share my passion effectively.
+
+As a first-generation college student and the son of an immigrant from Mexico, I bring a unique and diverse perspective to physics. As a Latino male in physics, I am passionate about representing my community and helping others achieve their dreams.
+
+I am passionate about breaking down barriers in STEM and making science accessible to everyone. My journey has instilled in me resilience, determination, and a profound appreciation for the importance of diversity in STEM. Through my studies and future endeavors, I aim to inspire and empower others, especially those from underrepresented backgrounds, to pursue their interests in science and reach their full potential.
+
+My specific areas of interest include astrophysics, astronomy, and cosmology. These fields captivate me and drive my desire to explore the universe and contribute to our understanding of the cosmos. I aim to pursue a PhD, where I can further my research and make meaningful contributions to the scientific community.
+
 <!--
 **Down2Derive/Down2Derive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
